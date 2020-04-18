@@ -35,9 +35,9 @@ clone this repository and execute the following commands:
    ##### to try the code:
           python main.py
    Note:
-   insert/query button switches mode b/n insert mode and query mode.
-   1.insert mode: click to insert node at that position.
-   2.query mode : click two points(topleft and bottomright of query rectangle).   
+      insert/query button switches mode b/n insert mode and query mode.
+   1. insert mode: click to insert node at that position.
+   2. query mode : click two points(topleft and bottomright of query rectangle).   
      
    ##### to use quadtree in other projects:
           import quadtree
