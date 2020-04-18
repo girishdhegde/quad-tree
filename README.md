@@ -2,9 +2,9 @@
 A quadtree is a tree data structure in which each internal node has exactly four children. Quadtrees are the two-dimensional analog of octrees and are most often used to partition a two-dimensional space by recursively subdividing it into four quadrants or regions. The data associated with a leaf cell varies by application, but the leaf cell represents a "unit of interesting spatial information".
 
 #### features:
-1.They decompose space into adaptable cells.
-2.Each cell (or bucket) has a maximum capacity. When maximum capacity is reached, the bucket splits.
-3.The tree directory follows the spatial decomposition of the quadtree.
+###### 1.They decompose space into adaptable cells.
+###### 2.Each cell (or bucket) has a maximum capacity. When maximum capacity is reached, the bucket splits.
+###### 3.The tree directory follows the spatial decomposition of the quadtree.
 
 ### Types:
 1.Region quadtree  
@@ -22,11 +22,11 @@ A quadtree is a tree data structure in which each internal node has exactly four
 6. Efficient collision detection in two dimensions
 7. View frustum culling of terrain data
 8. Storing sparse data, such as a formatting information for a spreadsheet or for some matrix calculations 
-9. Solution of multidimensional fields (computational fluid dynamics, electromagnetism)
-10.Conway's game of life simulation program.
-11.Statw estimation
-12.Fractal image analysis
-13.Maximum disjoint set
+9. Solution of multidimensional fields (computational fluid dynamics, electromagnetism).
+10. Conway's game of life simulation program.
+11. State estimation
+12. Fractal image analysis
+13. Maximum disjoint set
 
 ## Installation
 clone this repository and execute the following commands:
