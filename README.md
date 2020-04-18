@@ -23,10 +23,10 @@ A quadtree is a tree data structure in which each internal node has exactly four
 7. View frustum culling of terrain data
 8. Storing sparse data, such as a formatting information for a spreadsheet or for some matrix calculations 
 9. Solution of multidimensional fields (computational fluid dynamics, electromagnetism)
-10.Conway's Game of Life simulation program.
-11.State estimation
-12.Quadtrees are also used in the area of fractal image analysis
-13.Maximum disjoint sets     
+10.Conway's game of life simulation program.
+11.Statw estimation
+12.Fractal image analysis
+13.Maximum disjoint set
 
 ## Installation
 clone this repository and execute the following commands:
@@ -34,12 +34,10 @@ clone this repository and execute the following commands:
           pip install -r requirements.txt 
    ##### to try the code:
           python main.py
-   Note:   
-   insert/query button switches b/n insert mode and query mode
-   1.insert mode:
-     click to insert node at that position
-   2.query mode:   
-     click two points (topleft and bottom right of the query rectangle)   
+   Note:
+   insert/query button switches mode b/n insert mode and query mode.
+   1.insert mode: click to insert node at that position.
+   2.query mode : click two points(topleft and bottomright of query rectangle).   
      
    ##### to use quadtree in other projects:
           import quadtree
