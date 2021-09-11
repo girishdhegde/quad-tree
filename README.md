@@ -32,6 +32,7 @@ A quadtree is a tree data structure in which each internal node has exactly four
 clone this repository and execute the following commands:
    ##### to install requirements:
           pip install -r requirements.txt 
+## Usage
    ##### to try the code:
           python main.py
    Note:
